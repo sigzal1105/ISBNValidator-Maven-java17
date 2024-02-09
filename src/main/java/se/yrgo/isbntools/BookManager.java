@@ -15,6 +15,8 @@ public class BookManager {
 		for(Book book:books) {
 			System.out.println(book);
 		}
+
+		System.out.println("pllzzz");
 	}
 }
 
