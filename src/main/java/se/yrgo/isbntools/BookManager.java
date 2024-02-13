@@ -16,11 +16,7 @@ public class BookManager {
 			System.out.println(book);
 		}
 
-		System.out.println("pllzzz");
-		System.out.println("sakuya");
-		System.out.println("jintaro");
-		System.out.println("mio");
-		System.out.println("nagomu");
+		System.out.println("4");
 	}
 }
 
